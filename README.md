@@ -17,8 +17,14 @@ Video Link - https://drive.google.com/open?id=141Nlj7IIvd6qBMbjzrVpMnAVTj2Q6TZa
 ### Tracks used
 We have used Computer vision as it is an interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos.
 
+
+### Microsoft Azure Used
+We deployed our website using Web app services of Microsoft Azure and Flask. Here is the link to our website: http://trafemb.azurewebsites.net/
+
 ### Team Emblaze
 Akshita Mehta
 Sonali Mehta
 Isha Puthige
+
+
  
