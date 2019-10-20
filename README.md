@@ -11,7 +11,7 @@ OpenCV, Geolocations(for getting coordinates of different devices, Video Process
 Video Link - https://drive.google.com/open?id=141Nlj7IIvd6qBMbjzrVpMnAVTj2Q6TZa
 
 ### Usage
- Step 1 - Download the whole folder
+ Step 1 - Download the whole folder <br>
  Step 2 - Go to folder Open Website folder and open index.html
  
 ### Tracks used
@@ -22,8 +22,8 @@ We have used Computer vision as it is an interdisciplinary scientific field that
 We deployed our website using Web app services of Microsoft Azure and Flask. Here is the link to our website: http://trafemb.azurewebsites.net/
 
 ### Team Emblaze
-Akshita Mehta
-Sonali Mehta
+Akshita Mehta <br>
+Sonali Mehta <br>
 Isha Puthige
 
 
